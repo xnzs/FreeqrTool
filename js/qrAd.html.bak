@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+ <head>
+ 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="Generator" content="EditPlus®">
+
+
+ </head>
+
+ <body>
+ <style>
+ a{
+ text-decoration:none;text-align:center;
+ }
+ </style>
+<div class="container" style="background: #ffffff;">
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+			<h4 class="text-info text-center">
+前端开发工具
+  <a href='http://images.aazj.cn/qrfreeTool.html' target='_back'>一条js代码生成带logo二维码</a>
+				
+			</h4>
+		</div>
+	</div>
+</div>
+ <div>
+</div>
+ </body>
+</html>
